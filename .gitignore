@@ -1,0 +1,5 @@
+data/
+exports/
+data.sqlite
+.DS_Store
+*.pyc
